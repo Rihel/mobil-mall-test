@@ -1,0 +1,19 @@
+{
+  "appKey": "vWBzhgp5Hl6B12WAHyYqQkqwcuUo69xw",
+  "appSecret": "NBLCAwcsr0hO7I0V8ZG2GVcGlgE95q8a",
+  "projectId": 74,
+  "id": 142,
+  "name": "mibil-mall-test",
+  "framework": "vue",
+  "platform": "mobile",
+  "description": "jljk",
+  "git": {
+    "url": "https://github.com/Rihel/mobil-mall-test.git",
+    "isPrivate": 0,
+    "username": "Rihel",
+    "password": "Dqshanshan0327"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}

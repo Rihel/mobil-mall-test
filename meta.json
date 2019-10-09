@@ -1,0 +1,19 @@
+{
+    "name": "vant-mobile",
+    "version": "0.1.0",
+    "hash": "2324d5848da59572d3167991d2009901",
+    "title": "移动端商城模板",
+    "support_platform": [
+        "MOBILD"
+    ],
+    "description": "nuxt + vant移动端商城",
+    "type": "template",
+    "category": "移动端商城",
+    "screenshot": "/screenshots/2324d5848da59572d3167991d2009901.png",
+    "platform": [
+        "MOBILE"
+    ],
+    "path": "templates/VantMobile",
+    "origin": "http://gitlab.deepexi.top/deepexi/deepexi-serverless/serverless-material.git",
+    "homePage": "/materials/24/dist2324d5848da59572d3167991d2009901/index.html"
+}
